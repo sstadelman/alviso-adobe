@@ -17,7 +17,7 @@ The entry to the app is a "Today" page, which lists the events on today's calend
 
 1.  In order to implement the app according to this design, the city events calendar should be made available as a read-only REST API for GET requests.  The format of the service should be JSON.  
 
-2.  High-res images (~640 x 1200) of the park would be needed for the screen background images.  These will be partially covered by text & blur effects, so they should more along the lines of "landscape"-style of the park, rather than action shots.  (It might be ok to have people in the photo used for the "Today" page.
+2.  High-res images (~640 x 1200) of the park would be needed for the screen background images.  These will be partially covered by text & blur effects, so they should more along the lines of "landscape"-style of the park, rather than action shots.  (It might be ok to have people in the photo used for the "Today" page.)
 
 3.  A pdf of the park map would be needed.
 
